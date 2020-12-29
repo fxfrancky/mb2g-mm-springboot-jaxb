@@ -60,6 +60,7 @@
                         </exclude>
                     </excludes>
                 </configuration>
+                <!--     To avoid repackage jar Issues-->
                 <executions>
                     <execution>
                         <id>repackage</id>
